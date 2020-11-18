@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":[],"mappings":";;;AAEA,aAAA,QAAA","file":"src.c8674331.js","sourceRoot":"..\\src","sourcesContent":["//import menuCardTmpl from \"./templates/example.hbs\";\r\n//import cards from './example.json';\r\nimport './styles.css';"]}
